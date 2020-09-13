@@ -53,6 +53,12 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 3. What are some other possible tables and/or graphs that we could create?
 
 
+### Results
+1.	Projects related to theater, music and film video are more likely to succeed than other categories. This could mean that these genres are more popular in the public eye compared to other genres that may require a more specific category of audience. For instance, the theater, music, and film & video had the highest percentage of success rates of 61%, 79% and 58% respectively, while we can see categories like journalism with 0% or the food category with 18% success rate.
+2.	We can see that most projects do succeed as we can see that 2,185 projects became successful which represents for 53.76% of the total finished projects. 
+3.	We see that projects are marked successful, failed, or canceled throughout the months but over the years since the database was created in 2009, we don’t see a significant trend in whether different times of the year affects whether a project will succeed or fail  
+
+
 
 
 
